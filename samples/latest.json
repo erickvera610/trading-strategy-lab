@@ -1,5 +1,5 @@
 {
-  "seed": 20261025,
-  "window": 15,
-  "cost_bps": 12
+  "seed": 20261026,
+  "window": 5,
+  "cost_bps": 25
 }
